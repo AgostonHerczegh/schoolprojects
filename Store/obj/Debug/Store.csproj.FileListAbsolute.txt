@@ -1,0 +1,8 @@
+C:\Users\Herczegh Ágoston\source\repos\Store\Store\bin\Debug\Store.exe.config
+C:\Users\Herczegh Ágoston\source\repos\Store\Store\bin\Debug\Store.exe
+C:\Users\Herczegh Ágoston\source\repos\Store\Store\bin\Debug\Store.pdb
+C:\Users\Herczegh Ágoston\source\repos\Store\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\Herczegh Ágoston\source\repos\Store\Store\obj\Debug\Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\Herczegh Ágoston\source\repos\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\Herczegh Ágoston\source\repos\Store\Store\obj\Debug\Store.exe
+C:\Users\Herczegh Ágoston\source\repos\Store\Store\obj\Debug\Store.pdb
