@@ -1,8 +1,0 @@
-C:\Users\Herczegh Ágoston\source\repos\Teki\Teki\bin\Debug\Teki.exe.config
-C:\Users\Herczegh Ágoston\source\repos\Teki\Teki\bin\Debug\Teki.exe
-C:\Users\Herczegh Ágoston\source\repos\Teki\Teki\bin\Debug\Teki.pdb
-C:\Users\Herczegh Ágoston\source\repos\Teki\Teki\obj\Debug\Teki.csproj.AssemblyReference.cache
-C:\Users\Herczegh Ágoston\source\repos\Teki\Teki\obj\Debug\Teki.csproj.SuggestedBindingRedirects.cache
-C:\Users\Herczegh Ágoston\source\repos\Teki\Teki\obj\Debug\Teki.csproj.CoreCompileInputs.cache
-C:\Users\Herczegh Ágoston\source\repos\Teki\Teki\obj\Debug\Teki.exe
-C:\Users\Herczegh Ágoston\source\repos\Teki\Teki\obj\Debug\Teki.pdb
