@@ -1,0 +1,8 @@
+H:\School\Vadasz\Vadasz\obj\Debug\Vadasz.csproj.AssemblyReference.cache
+H:\School\Vadasz\Vadasz\obj\Debug\Vadasz.csproj.SuggestedBindingRedirects.cache
+H:\School\Vadasz\Vadasz\obj\Debug\Vadasz.csproj.CoreCompileInputs.cache
+H:\School\Vadasz\Vadasz\bin\Debug\Vadasz.exe.config
+H:\School\Vadasz\Vadasz\bin\Debug\Vadasz.exe
+H:\School\Vadasz\Vadasz\bin\Debug\Vadasz.pdb
+H:\School\Vadasz\Vadasz\obj\Debug\Vadasz.exe
+H:\School\Vadasz\Vadasz\obj\Debug\Vadasz.pdb
