@@ -4,15 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Furniture[] bútorok = new Furniture[3];
+            Furniture[] Furnitures = new Furniture[3];
 
-            bútorok[0] = new Table(10);
-            bútorok[1] = new Bed(200, 180);
-            bútorok[2] = new Chair(4);
+            Furnitures[0] = new Table(10);
+            Furnitures[1] = new Bed(200, 180);
+            Furnitures[2] = new Chair(4);
 
-            for (int i = 0; i < bútorok.Length; i++)
+            for (int i = 0; i < Furnitures.Length; i++)
             {
-                bútorok[i].Print();
+                Furnitures[i].Print();
             }
         }
 
