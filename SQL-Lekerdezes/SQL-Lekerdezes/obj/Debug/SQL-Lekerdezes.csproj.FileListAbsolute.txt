@@ -1,0 +1,56 @@
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\SQL-Lekerdezes.exe.config
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\SQL-Lekerdezes.exe
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\SQL-Lekerdezes.pdb
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.csproj.AssemblyReference.cache
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL_Lekerdezes.Form1.resources
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL_Lekerdezes.Properties.Resources.resources
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.csproj.GenerateResource.cache
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.csproj.CoreCompileInputs.cache
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.exe
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.pdb
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL_Lekerdezes.Form2.resources
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\MySql.Data.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\MySql.Web.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\Google.Protobuf.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\ZstdNet.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\System.Memory.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\System.Buffers.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\MySql.Data.xml
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\bin\Debug\MySql.Web.xml
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.exe.config
+C:\Users\Herczegh.Agoston\source\repos\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.csproj.CopyComplete
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\SQL-Lekerdezes.exe.config
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\SQL-Lekerdezes.exe
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\SQL-Lekerdezes.pdb
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\Google.Protobuf.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\ZstdNet.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\System.Memory.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\System.Buffers.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\MySql.Data.xml
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\bin\Debug\MySql.Web.xml
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.csproj.AssemblyReference.cache
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.exe.config
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL_Lekerdezes.Form1.resources
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL_Lekerdezes.Form2.resources
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL_Lekerdezes.Properties.Resources.resources
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.csproj.GenerateResource.cache
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.csproj.CoreCompileInputs.cache
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.csproj.CopyComplete
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.exe
+C:\Users\Herczegh Ágoston\Downloads\SQL-Lekerdezes\SQL-Lekerdezes\obj\Debug\SQL-Lekerdezes.pdb
